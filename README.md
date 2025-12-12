@@ -6,8 +6,6 @@
 
 🔭 I’m currently working on [thomann.de](https://www.thomann.de)
 
-🌱 I’m currently learning **vue3**
-
 📫 You can write me an eMail **info@saparot.io**
 
 🧑🏽‍💻 Want to develop for thomann.de? Techstack PHP / JavaScript / React / Less
